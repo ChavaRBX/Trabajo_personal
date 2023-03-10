@@ -1,0 +1,29 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:cursive;
+    
+    }
+    body{
+
+        display: flex;
+      
+
+        min-height: 100vh;
+        background-color: transparent ;
+
+       }
+       form{
+     
+        justify-content: space-between;
+        
+       }
+       h2{
+
+
+    align-items: center;
+justify-content: center;
+
+       }

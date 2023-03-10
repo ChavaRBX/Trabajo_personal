@@ -1,0 +1,48 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  
+  }
+
+#titulos{
+
+    background-color:aquamarine;
+
+  }
+
+  h5{
+
+text-align: center;
+
+  }
+
+  body  {
+
+background-color: powderblue;
+
+  }
+
+  div {
+    
+    background-color: bisque;
+   text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+img{
+
+height: 50px;
+width:  50px;
+}

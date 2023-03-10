@@ -1,0 +1,70 @@
+Body{
+
+ background-color: lightslategray;
+
+}
+a{
+
+color: black;
+margin: 50px 20px;
+text-decoration: none;
+}
+
+a:hover{
+
+ color: red;
+
+}
+
+div{
+
+font-size: 20px;
+
+}
+#pi {
+
+ font-size: 20px;
+
+}
+
+#nc{
+
+ font-size: 20px;
+
+}
+
+.yomi{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow:hidden;
+    background-color: #333333;
+    
+  }
+  
+  li {
+    float: left;
+    
+  }
+  
+  li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: small;    
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
